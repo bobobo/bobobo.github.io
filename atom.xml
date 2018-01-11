@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-10T11:49:36.611Z</updated>
+  <updated>2018-01-11T03:17:10.161Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/01/11/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3/"/>
+    <id>http://yoursite.com/2018/01/11/这是一个测试文档/</id>
+    <published>2018-01-11T03:16:16.508Z</published>
+    <updated>2018-01-11T03:17:10.161Z</updated>
+    
+    <content type="html"><![CDATA[<p>title: 这是一个测试文档<br>date: 2018-01-10 16:56:29<br>categories: </p><ul><li>测试<br>tags: </li><li>测试</li></ul><p><img src="http://img2.niutuku.com/desk/130126/50/50-niutuku.com-3495.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;title: 这是一个测试文档&lt;br&gt;date: 2018-01-10 16:56:29&lt;br&gt;categories: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;测试&lt;br&gt;tags: &lt;/li&gt;
+&lt;li&gt;测试&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://img2.ni
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>2018，你该搭建自己的博客了！</title>
