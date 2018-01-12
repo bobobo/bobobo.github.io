@@ -44,10 +44,10 @@
   
   <entry>
     <title>Hexo你所不知道的奇淫巧技【持续更新】</title>
-    <link href="http://yoursite.com/2018/01/10/Hexo%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%A5%87%E6%B7%AB%E5%B7%A7%E6%8A%80%E3%80%90%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E3%80%91/"/>
-    <id>http://yoursite.com/2018/01/10/Hexo你所不知道的奇淫巧技【持续更新】/</id>
-    <published>2018-01-10T08:56:29.000Z</published>
-    <updated>2018-01-12T11:06:44.645Z</updated>
+    <link href="http://yoursite.com/2018/01/09/Hexo%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E5%A5%87%E6%B7%AB%E5%B7%A7%E6%8A%80%E3%80%90%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E3%80%91/"/>
+    <id>http://yoursite.com/2018/01/09/Hexo你所不知道的奇淫巧技【持续更新】/</id>
+    <published>2018-01-09T08:56:29.000Z</published>
+    <updated>2018-01-12T11:08:22.583Z</updated>
     
     <content type="html"><![CDATA[<p>在我们搭建完了博客之后，我们作为一名有理想有追求的程序员，当然是想让我们的博客更加具备我们自己的Style，但是无疑文字是苍白的，所以我们可以结合一些奇淫巧技，为我们的博客增添色彩~</p><h2 id="1-插入图片"><a href="#1-插入图片" class="headerlink" title="1. 插入图片"></a>1. 插入图片</h2><p><img src="http://onq81n53u.bkt.clouddn.com/tmac.jpg" alt=""></p><p>以我的小麦麦为例，首先在网上找到他的图片，然后右键复制图片地址，替换掉下面的图片链接，中括号里面是描述，有些网站显示不了描述，像简书就可以，小括号里面就是图片链接。</p><pre><code>![T-Mac](http://onq81n53u.bkt.clouddn.com/tmac.jpg)</code></pre><h2 id="2-插入音乐"><a href="#2-插入音乐" class="headerlink" title="2. 插入音乐"></a>2. 插入音乐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=408522142&auto=0&height=66"><br></iframe> <p>例如插入我们常用的网易云音乐，可以网易云在线版找到你要播放歌的id，替换掉下面id即可，然后放在你的markdown写的文章里面。</p><pre><code>&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86       src=&quot;http://music.163.com/outchain/player?type=2&amp;id=408522142&amp;auto=1&amp;height=66&quot;&gt;  &lt;/iframe&gt; </code></pre><h2 id="3-插入视频"><a href="#3-插入视频" class="headerlink" title="3. 插入视频"></a>3. 插入视频</h2><iframe height="498" width="510" src="http://player.youku.com/embed/XNDI1ODk4Mzgw" frameborder="0" allowfullscreen><br></iframe> <p>就拿我母校的外国语学校的微视频为栗子啦~先把视频放到优酷上面，在网页版有个分享按钮，点开之后有个通用代码，没错就是下面这一段，然后需要格式化一下代码哦，不然显示不出来。</p><pre><code>&lt;iframe       height=498 width=510       src=&quot;http://player.youku.com/embed/XNDI1ODk4Mzgw&quot;       frameborder=0 allowfullscreen&gt;  &lt;/iframe&gt; </code></pre><p>其实要是学过点html的童鞋都可以看出来，这个iframe就是加载了一个网页而已，然后src就是优酷给我们提供的只包含该视频的一个网页，然后我们的iframe把这个网页加载出来，所以可以得知，Markdown的语法已经支持了iframe这个标签，当然，更多的特性需要大家一起发掘~</p><h2 id="4-未完待续"><a href="#4-未完待续" class="headerlink" title="4. 未完待续.."></a>4. 未完待续..</h2>]]></content>
     
